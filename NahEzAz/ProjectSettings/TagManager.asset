@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Talaj
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Talaj
+  - Ladder
+  - Enemy
+  - PLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CsapdaSortingLayer
+    uniqueID: 3709915307
+    locked: 0
+  - name: MaszofalSortingLayer
+    uniqueID: 3848583945
+    locked: 0
+  - name: TalajSortingLayer
+    uniqueID: 1533213161
+    locked: 0
+  - name: CsapdaTalajELtunikSortingLayer
+    uniqueID: 2524702731
+    locked: 0
+  - name: Enemy
+    uniqueID: 372748671
+    locked: 0
+  - name: Player
+    uniqueID: 2596127503
+    locked: 0
+  - name: SlowAreaSortingLayer
+    uniqueID: 2967320773
+    locked: 0
