@@ -117,6 +117,12 @@ public class PlayerMovement : MonoBehaviour
     public bool PlayerIsAttackingAir=false;
 
     #endregion
+
+    #region EgerrelNezesEsForgad
+
+    
+
+    #endregion
     
     void Start()
     {
@@ -136,6 +142,9 @@ public class PlayerMovement : MonoBehaviour
     
     void Update()
     {
+
+       
+
         GroundCheck();
         CheckSurroundings();
         LedgeDetect();

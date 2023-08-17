@@ -46,12 +46,24 @@ public class PlayerAttack : MonoBehaviour
 
     #endregion
 
+    #region SHooting
+
+    
+
+    #endregion
 
 
     void Start()
     {
         playerMovement=GetComponent<PlayerMovement>();
         myAnimator=GetComponentInChildren<Animator>();
+    }
+
+    private void Update() {
+
+        
+
+
     }
 
 
